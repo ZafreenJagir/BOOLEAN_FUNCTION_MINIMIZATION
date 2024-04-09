@@ -58,7 +58,9 @@ Developed by: ZAFREEN J  RegisterNumber:*/ 212223040252
 **TRUTH TABLE**
 ![Screenshot 2024-04-09 091052](https://github.com/ZafreenJagir/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870573/5d1ae602-40ce-4de0-8a30-5b9703c97228)
 
+
 **RTL realization**
+
 ![Screenshot 2024-04-09 091148](https://github.com/ZafreenJagir/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870573/f732a945-bf4a-4eb0-bf69-487a21d897a9)
 
 
